@@ -1,4 +1,4 @@
-## Code Path - Intro to Mobile App Development - Android Pre-work Project
+## Android Pre-work Project
 
 ### App Description
 A basic Android mobile app that allows the user to tap a button or background view to change text string, change text color, or change background color
