@@ -5,7 +5,7 @@ A basic Android mobile app that allows the user to tap a button or background vi
 
 ### App Walk-though
 
-<img src="https://im6.ezgif.com/tmp/ezgif-6-651eb0e281.gif" width=200><br>
+<img src="https://i.imgur.com/8j52XK2.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
